@@ -34,5 +34,5 @@ This tool solves that problem by providing an "AI brain" that can understand and
 
 ## Strealit
 
-**HERE[https://bukitvista-interpro.streamlit.app/]**
+**[HERE](https://bukitvista-interpro.streamlit.app/)**
 ---
