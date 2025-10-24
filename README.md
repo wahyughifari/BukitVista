@@ -32,7 +32,7 @@ This tool solves that problem by providing an "AI brain" that can understand and
 
 ---
 
-## Strealit
+## Streamlit
 
-**[HERE](https://bukitvista-interpro.streamlit.app/)**
+**[Here](https://bukitvista-interpro.streamlit.app/)**
 ---
