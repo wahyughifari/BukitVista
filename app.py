@@ -96,8 +96,8 @@ with tab1:
         fig_guests = px.histogram(df, x='number_of_guests', nbins=10, color_discrete_sequence=['#00A36C'])
         st.plotly_chart(fig_guests, use_container_width=True)
 
-    st.header("Data Properti (Sudah Dibersihkan)")
-    st.dataframe(df.head(10))
+    st.header("Data Properti")
+    st.dataframe(df())
 
 # =====================================================================
 # TAB 2: SEMANTIC SEARCH
