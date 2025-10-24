@@ -97,7 +97,7 @@ with tab1:
         st.plotly_chart(fig_guests, use_container_width=True)
 
     st.header("Data Properti")
-    st.dataframe(df())
+    st.dataframe(df)
 
 # =====================================================================
 # TAB 2: SEMANTIC SEARCH
